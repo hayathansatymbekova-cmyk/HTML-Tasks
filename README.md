@@ -1,1 +1,1 @@
-https://app.netlify.com/teams/hayathansatymbekova/projects
+https://khayaprojects.netlify.app/
